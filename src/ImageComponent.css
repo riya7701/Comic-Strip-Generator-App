@@ -1,0 +1,32 @@
+/* Add this CSS to your stylesheet */
+
+.handle {
+    position: relative;
+    background-color: #fff;
+    /* Set the background color */
+    padding: 10px;
+    border: 2px solid #000;
+    /* Set the border color */
+    border-radius: 10px;
+    /* Add rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    /* Add a subtle shadow */
+}
+
+/* Triangle or tail for the speech bubble */
+.handle::before {
+    content: '';
+    position: absolute;
+    bottom: -10px;
+    /* Adjust the bottom position */
+    left: 50%;
+    border-width: 10px 10px 0;
+    border-style: solid;
+    border-color: #000 transparent transparent transparent;
+    transform: translateX(-50%);
+    /* Center the triangle */
+}
+
+.speech-bubble {
+    padding: 2px;
+}
