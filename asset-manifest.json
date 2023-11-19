@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Dashtoon_task/static/css/main.cd73aa3f.chunk.css",
+    "main.js": "/Dashtoon_task/static/js/main.fdf99cb9.chunk.js",
+    "main.js.map": "/Dashtoon_task/static/js/main.fdf99cb9.chunk.js.map",
+    "runtime-main.js": "/Dashtoon_task/static/js/runtime-main.29f591fd.js",
+    "runtime-main.js.map": "/Dashtoon_task/static/js/runtime-main.29f591fd.js.map",
+    "static/js/2.a35e277c.chunk.js": "/Dashtoon_task/static/js/2.a35e277c.chunk.js",
+    "static/js/2.a35e277c.chunk.js.map": "/Dashtoon_task/static/js/2.a35e277c.chunk.js.map",
+    "static/js/3.e2023eda.chunk.js": "/Dashtoon_task/static/js/3.e2023eda.chunk.js",
+    "static/js/3.e2023eda.chunk.js.map": "/Dashtoon_task/static/js/3.e2023eda.chunk.js.map",
+    "index.html": "/Dashtoon_task/index.html",
+    "precache-manifest.bc1260e899a36093f7a92213fe6e6ad0.js": "/Dashtoon_task/precache-manifest.bc1260e899a36093f7a92213fe6e6ad0.js",
+    "service-worker.js": "/Dashtoon_task/service-worker.js",
+    "static/css/main.cd73aa3f.chunk.css.map": "/Dashtoon_task/static/css/main.cd73aa3f.chunk.css.map",
+    "static/js/2.a35e277c.chunk.js.LICENSE.txt": "/Dashtoon_task/static/js/2.a35e277c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Dashtoon_task/static/media/bg.de8c7b36.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29f591fd.js",
+    "static/js/2.a35e277c.chunk.js",
+    "static/css/main.cd73aa3f.chunk.css",
+    "static/js/main.fdf99cb9.chunk.js"
+  ]
+}
