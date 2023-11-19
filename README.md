@@ -7,7 +7,7 @@ This webapp is made using React.js. To run in your local system, install all the
 <img width="454" alt="final 1" src="https://github.com/riya7701/Dashtoon_task/assets/84079919/f5dc360a-d559-4475-90a4-8638e54cd56f">
 
 <img width="370" alt="final 2" src="https://github.com/riya7701/Dashtoon_task/assets/84079919/ed27cf44-574e-4e22-b9ad-5875216c340e">
-Screenshots of webapp showing speech bubble feature (draggable)
+## Screenshots of webapp showing speech bubble feature (draggable)
 
 ## Getting Started with Create React App
 
