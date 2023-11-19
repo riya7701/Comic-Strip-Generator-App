@@ -1,9 +1,9 @@
 # Dasthtoon Engineer Product Task
 This webapp is made using React.js. To run in your local system, install all the dependencies(npm install) and then start the server(npm start).
-## -In this webapp there are 10 text areas in which text can be added and corresponding to the given input comic images are generated. 
-## -The bonus feature of adding a speech bubble on every image panel has also been implemented. 
-## -Below every generated image is a text box where you can enter the text that you want to display in the speech bubble. 
-## -Also the speech bubble is draggable and can be placed anywhere inside the comic image.
+#### -In this webapp there are 10 text areas in which text can be added and corresponding to the given input comic images are generated. 
+#### -The bonus feature of adding a speech bubble on every image panel has also been implemented. 
+#### -Below every generated image is a text box where you can enter the text that you want to display in the speech bubble. 
+#### -Also the speech bubble is draggable and can be placed anywhere inside the comic image.
 
 
 ## Screenshots of webapp showing speech bubble feature (draggable)
